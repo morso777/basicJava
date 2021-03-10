@@ -28,6 +28,7 @@ public class AsignacionVariables {
     }
 
     public static double descontarImpuestos(double salarioBruto) {
+        nombre= "hiran";
         return salarioBruto * .7;
         
     }
